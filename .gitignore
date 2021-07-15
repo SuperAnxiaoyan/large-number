@@ -1,0 +1,24 @@
+################################################################################
+# https://github.com/github/gitignore/blob/master/Node.gitignore
+################################################################################
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+
+################################################################################
+# SSC custom
+################################################################################
+.idea
+*.log
+/node_modules/
+/npm-debug.log
+/build/
+.vscode
+.*.swp
+dist
+webpack.ztc.config.js
+app_ztc.js
