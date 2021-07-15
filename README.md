@@ -8,3 +8,4 @@ import largeNumber from 'large-number-anxy'
 ## 使用案例
 largeNumber('999','1')
 largeNumber('11111122222211111','1111111111111')
+largeNumer('1','12121212')
